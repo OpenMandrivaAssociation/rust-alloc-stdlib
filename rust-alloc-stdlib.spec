@@ -8,7 +8,7 @@
 
 Name:           rust-%{crate}
 Version:        0.2.1
-Release:        3
+Release:        4
 Summary:        Dynamic allocator example that may be used with the stdlib
 
 # Upstream license specification: BSD-3-Clause
